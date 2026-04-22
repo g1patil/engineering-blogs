@@ -540,6 +540,7 @@
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
 * T.J. Maher http://adventuresinautomation.blogspot.com/
+* Theo Soti https://theosoti.com/
 
 #### U individuals
 * Una Kravets https://una.im/
