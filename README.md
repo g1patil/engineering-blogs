@@ -537,10 +537,10 @@
 * Tania Rascia https://tania.dev/
 * The Coded Self http://www.thecodedself.com
 * The Daily WTF http://thedailywtf.com/
+* Theo Soti https://theosoti.com/
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
 * T.J. Maher http://adventuresinautomation.blogspot.com/
-* Theo Soti https://theosoti.com/
 
 #### U individuals
 * Una Kravets https://una.im/
