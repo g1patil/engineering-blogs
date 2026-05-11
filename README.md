@@ -27,6 +27,7 @@
 * 8th Light https://8thlight.com/blog/
 
 #### A companies
+* AceTheCloud http://acethecloud.com
 * AdRoll http://tech.adroll.com/blog/
 * Advanced Web Machinery https://advancedweb.hu/
 * Airbnb https://medium.com/airbnb-engineering
