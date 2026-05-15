@@ -1,10 +1,7 @@
-# WorkFlow Name
 name: Generate engineering_blogs.opml file
 
-# Events upon which Github WorkFlow gets triggered
 on: [push, pull_request]
 
-# Create jobs
 jobs:
   generate:
     name: Generate engineering_blogs.opml
@@ -12,6 +9,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}   # ← fixes detached HEAD
 
       - name: Ruby Setup
         uses: ruby/setup-ruby@v1
@@ -19,15 +18,17 @@ jobs:
           ruby-version: '2.7'
 
       - name: Install pkgs
-        run: |
-          bundle install --jobs 4
+        run: bundle install --jobs 4
 
       - name: Generate opml file using ruby
-        run: |
-          ruby generate_opml.rb
+        run: ruby generate_opml.rb
 
       - name: Auto-Commit engineering_blogs file if updated
         uses: stefanzweifel/git-auto-commit-action@v4.1.5
         with:
           commit_message: Commit by Github WorkFlow
           file_pattern: engineering_blogs.opml
+          branch: ${{ github.head_ref }}  # ← fixes push to detached HEAD
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
+          commit_author: g1patil <g1patil@users.noreply.github.com>
