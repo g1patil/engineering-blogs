@@ -140,6 +140,7 @@
 * IMVU https://engineering.imvu.com/
 * Imgur https://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
+* Intuit https://medium.com/intuit-engineering/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
 
@@ -168,6 +169,7 @@
 * Medallia http://engineering.medallia.com/blog/
 * Medium https://medium.com/medium-eng
 * Mesosphere https://mesosphere.com/blog/
+* Meta Engineering https://engineering.fb.com
 * MeteorOps https://meteorops.com/blog/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Moove-it https://blog.moove-it.com/
@@ -189,6 +191,7 @@
 * Okta https://developer.okta.com/blog/
 * OLX https://tech.olx.com/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
+* OpenAI https://openai.com/blog/
 * OpenDNS https://engineering.opendns.com/
 * Oursky https://code.oursky.com/
 
@@ -233,6 +236,7 @@
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
+* Snapchat https://eng.snap.com/blog
 * Soshace https://blog.soshace.com/en/
 * Soundcloud https://developers.soundcloud.com/blog/
 * SourceClear https://blog.sourceclear.com/
@@ -296,6 +300,7 @@
 * Zapier https://zapier.com/engineering/
 * Zendesk https://medium.com/zendesk-engineering
 * Zendesk(old) https://developer.zendesk.com/blog
+* Zomato https://blog.zomato.com/
 
 ### Individuals/Group Contributors
 
