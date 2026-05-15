@@ -150,6 +150,7 @@
       <outline type="rss" text="RisingStack" title="RisingStack" xmlUrl="https://blog.risingstack.com/feed/" htmlUrl="https://blog.risingstack.com/"/>
       <outline type="rss" text="RoseHosting" title="RoseHosting" xmlUrl="https://www.rosehosting.com/blog/feed/" htmlUrl="https://www.rosehosting.com/blog/"/>
       <outline type="rss" text="Schibsted Tech Polska" title="Schibsted Tech Polska" xmlUrl="https://www.schibsted.pl/wp-json/wp/v2/pages/3339" htmlUrl="http://www.schibsted.pl/blog/"/>
+      <outline type="rss" text="Segment" title="Segment" xmlUrl="https://www.twilio.com/sitemap.xml" htmlUrl="https://segment.com/blog/categories/engineering/"/>
       <outline type="rss" text="Sensible" title="Sensible" xmlUrl="https://blog.sensible.io/rss" htmlUrl="http://blog.sensible.io/"/>
       <outline type="rss" text="Serverless" title="Serverless" xmlUrl="https://www.serverless.com/blog/rss.xml" htmlUrl="https://serverless.com/blog/"/>
       <outline type="rss" text="Sharethis" title="Sharethis" xmlUrl="https://www.sharethis.com/platform/social-feed/" htmlUrl="https://www.sharethis.com/category/engineering/"/>
