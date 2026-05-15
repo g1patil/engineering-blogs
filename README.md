@@ -112,6 +112,7 @@
 * GitHub Old https://github.com/blog/category/engineering
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * GoDaddy https://godaddy.github.io/engineering/
+* GoogleCloud https://cloud.google.com/blog
 * GoSquared https://engineering.gosquared.com/
 * Grab http://engineering.grab.com/
 * Graphcool https://blog.graph.cool/
@@ -140,6 +141,7 @@
 * IMVU https://engineering.imvu.com/
 * Imgur https://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
+* Intuit https://medium.com/intuit-engineering/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
 
@@ -168,6 +170,7 @@
 * Medallia http://engineering.medallia.com/blog/
 * Medium https://medium.com/medium-eng
 * Mesosphere https://mesosphere.com/blog/
+* Meta Engineering https://engineering.fb.com/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Moove-it https://blog.moove-it.com/
 * Mozilla Automation Team https://planet.mozilla.org/ateam/
@@ -188,6 +191,7 @@
 * Okta https://developer.okta.com/blog/
 * OLX https://tech.olx.com/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
+* OpenAI https://openai.com/blog/
 * OpenDNS https://engineering.opendns.com/
 * Oursky https://code.oursky.com/
 
@@ -232,6 +236,7 @@
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
+* Snapchat https://eng.snap.com/blog
 * Soshace https://blog.soshace.com/en/
 * Soundcloud https://developers.soundcloud.com/blog/
 * SourceClear https://blog.sourceclear.com/
@@ -265,6 +270,7 @@
 * Twilio https://www.twilio.com/blog/
 
 #### U companies
+* Uber https://www.uber.com/en-IN/blog/engineering/
 * Universe https://engineering.universe.com
 * UpGrad https://engineering.upgrad.com
 
@@ -296,6 +302,7 @@
 * Zapier https://zapier.com/engineering/
 * Zendesk https://medium.com/zendesk-engineering
 * Zendesk(old) https://developer.zendesk.com/blog
+* Zomato https://blog.zomato.com/
 
 ### Individuals/Group Contributors
 
@@ -304,6 +311,7 @@
 
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
+* Abhishek Gupta https://acethecloud.com
 * Abu Ashraf Masnun http://masnun.com/
 * Addy Osmani https://addyosmani.com/blog/
 * Alan Storm http://alanstorm.com/
@@ -461,6 +469,7 @@
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
 * Matthew Green https://blog.cryptographyengineering.com/
+* Maxim Zhukov http://fsou1.github.io/
 * Michael Crump https://michaelcrump.net/
 * Michael Herman http://mherman.org/
 * Miguel Quinones https://www.miqu.me/
