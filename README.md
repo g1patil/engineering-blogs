@@ -170,6 +170,7 @@
 * Medium https://medium.com/medium-eng
 * Mesosphere https://mesosphere.com/blog/
 * Meta Engineering https://engineering.fb.com
+* MeteorOps https://meteorops.com/blog/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Moove-it https://blog.moove-it.com/
 * Mozilla Automation Team https://planet.mozilla.org/ateam/

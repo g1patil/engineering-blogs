@@ -115,6 +115,7 @@
       <outline type="rss" text="MapTiler" title="MapTiler" xmlUrl="https://www.maptiler.com/news/feed/posts.xml" htmlUrl="https://www.maptiler.com/blog/"/>
       <outline type="rss" text="Medium" title="Medium" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.com/medium-eng"/>
       <outline type="rss" text="Mesosphere" title="Mesosphere" xmlUrl="https://d2iq.com/feed" htmlUrl="https://mesosphere.com/blog/"/>
+      <outline type="rss" text="MeteorOps" title="MeteorOps" xmlUrl="https://meteorops.com/blog/rss.xml" htmlUrl="https://meteorops.com/blog/"/>
       <outline type="rss" text="Microsoft Python Engineering" title="Microsoft Python Engineering" xmlUrl="https://devblogs.microsoft.com/python/feed/" htmlUrl="https://blogs.msdn.microsoft.com/pythonengineering/"/>
       <outline type="rss" text="Moove-it" title="Moove-it" xmlUrl="https://blog.moove-it.com/rss" htmlUrl="https://blog.moove-it.com/"/>
       <outline type="rss" text="Mozilla Automation Team" title="Mozilla Automation Team" xmlUrl="https://planet.mozilla.org/automation/atom.xml" htmlUrl="https://planet.mozilla.org/ateam/"/>
