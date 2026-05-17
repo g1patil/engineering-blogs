@@ -194,6 +194,7 @@
 * OpenAI https://openai.com/blog/
 * OpenDNS https://engineering.opendns.com/
 * Oursky https://code.oursky.com/
+* OVH https://blog.ovhcloud.com/
 
 #### P companies
 * Palantir https://blog.palantir.com/
