@@ -267,6 +267,7 @@
 * Trivago http://tech.trivago.com/
 * TrueCar https://www.drivenbycode.com/
 * Tumblr https://engineering.tumblr.com/
+* Tuple https://www.tuple.nl/blog/
 * Twilio https://www.twilio.com/blog/
 
 #### U companies
