@@ -503,6 +503,7 @@
 * Paul Lewis https://aerotwist.com/blog/
 * Paweł Chudzik https://blog.pchudzik.com/
 * Peter Norvig http://norvig.com/
+* Peter P. Lupo http://blog.pplupo.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
 * Petr Mitrichev http://petr-mitrichev.blogspot.com/
