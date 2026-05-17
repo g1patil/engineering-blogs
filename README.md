@@ -324,6 +324,7 @@
 * Ariya Hidayat https://ariya.io/
 * Armin Ronacher http://lucumr.pocoo.org/
 * Axel Rauschmayer http://www.2ality.com/
+* Anton Grishin [https://alchemmist.xyz](https://alchemmist.xyz?utm_source=github)
 
 #### B individuals
 * Bad Concurrency http://bad-concurrency.blogspot.com/
